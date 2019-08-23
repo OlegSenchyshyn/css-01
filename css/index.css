@@ -1,0 +1,27 @@
+* {background-color:darkgray}
+/* html = root */
+html  {font-size: 8px}
+
+h1 {
+    color:chocolate
+     }
+
+
+
+     p {color:brown}
+#chosen {font-style: italic}
+
+
+
+.underline {
+    text-decoration: underline;
+}
+
+
+div p {border: 1px solid blueviolet}
+
+/* перевертає */
+p:hover {transform: rotate(180deg)}
+
+p::first-letter {font-size: 2rem}
+
